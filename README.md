@@ -1,7 +1,5 @@
 # Tô Quang Hân - 23001605
 
-Nạp Dữ Liệu Quy Mô Lớn Vào MariaDB Bằng Python & Ôn Tập SQL
-
 Repository lưu trữ mã nguồn thực hành, hướng dẫn cài đặt và báo cáo kết quả thực nghiệm nạp dữ liệu từ bộ dữ liệu IMDb vào cơ sở dữ liệu quan hệ **MariaDB** bằng **Python**.
 
 ---
